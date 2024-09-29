@@ -12,6 +12,7 @@ let isLoggedIn = false
 // boolean => true /false
 // null => standalone value
 // undefined =>
+// symbol => unique
 
 // object
 
